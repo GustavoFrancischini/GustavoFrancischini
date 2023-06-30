@@ -1,4 +1,8 @@
-#  👻
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-francischini/)
+## Gustavo Francischini 🌴
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoFrancischini&show_icons=true&theme=dark)
+    Beginner Software Engineer
+    
+      • 📚 Currently learning: Python, Data Science, ML and AI.
+
+##### How to reach me:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-francischini/)
