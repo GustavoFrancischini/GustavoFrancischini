@@ -1,4 +1,4 @@
-<h1 align="center"> ## Gustavo Francischini 🌱 </h1>
+<h1 align="center"> Gustavo Francischini 🌱 </h1>
 
     Beginner Software Engineer
     
