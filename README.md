@@ -2,7 +2,7 @@
 
     Beginner Software Engineer
     
-      • 📚 Currently learning: Python, Data Science, ML and AI.
+      • 📚 Currently learning: Artificial Intelligence.
 
 <p align="center">
   <strong>How to reach me:</strong><br>
