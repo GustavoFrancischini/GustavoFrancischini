@@ -1,9 +1,8 @@
 <h1 align="center"> Gustavo Francischini 🌱 </h1>
-<p align="center"
+
     Beginner Software Engineer
     
       • 📚 Currently learning: Artificial Intelligence.
-</p>
 
 <p align="center">
     <strong>Main stacks:</strong><br> <br>
