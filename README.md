@@ -2,7 +2,7 @@
 
     Beginner Software Engineer
     
-      • 📚 Currently learning: Swift • iOS development.
+      • 📚 Currently learning: Swift (iOS development).
 
 <p align="center">
     <strong>Main stacks:</strong><br> <br>
