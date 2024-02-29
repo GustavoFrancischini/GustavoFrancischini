@@ -1,10 +1,9 @@
-<h2 align="center"> Gustavo Francischini 🌱 <br> </h2> 
 
-                                                          Beginner iOS Developer
-    
-                                                      • 📚 Currently learning: Swift
-
-
+<h2 align="center"> <strong>Gustavo Francischini</strong><br></h2>
+<p align="center"> <strong>
+  Beginner iOS Developer </strong><br> 
+  📚 Currently learning: <strong>Swift</strong>
+</p>
 <hr>
 <p align="center">
   <strong>Main stack:</strong>
@@ -61,4 +60,5 @@
     <img align="center" height="25" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>        
 </p>
+<hr>
 
