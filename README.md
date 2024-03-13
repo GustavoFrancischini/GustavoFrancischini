@@ -1,8 +1,8 @@
 
 <h2 align="center"> <strong>Gustavo Francischini</strong><br></h2>
 <p align="center"> <strong>
-  Beginner iOS Developer </strong><br> 
-  📚 Currently learning: <strong>Swift</strong>
+  Beginner Developer </strong><br> 
+  📚 Currently learning: <strong>Java</strong>
 </p>
 <hr>
 <p align="center">
