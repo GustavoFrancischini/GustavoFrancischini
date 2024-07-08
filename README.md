@@ -28,6 +28,6 @@
   </a>
 
   <a href="https://www.ibm.com/topics/core-banking" target="_blank">
-    <br> <br> What is Core Banking? <br>
+    <br> <br> <br> What is Core Banking? <br>
   </a>
 </p>
