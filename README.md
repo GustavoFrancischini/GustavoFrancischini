@@ -7,11 +7,17 @@
     <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"/>
   </a> <br> <br>
   I work as a back-end developer on <strong>Core Banking</strong> at Inter, one of the largest digital banks in the world.
-  <br> <br>
+  <br>
+
+  <a href="https://www.ibm.com/topics/core-banking" target="_blank">
+    <br> What is Core Banking? <br> <br>
+  </a>
+
+  <a>
   <strong> Daily work methodologies: </strong> <br>
   Distributed Systems • Cloud Computing
   • Messaging <br> Containerization
-  • Continuous Delivery • Observability 
+  • Continuous Delivery • Observability </a>
 </p>
 
 <br>
@@ -28,7 +34,4 @@
     <img align="center" height="30" width="105" src="https://img.shields.io/badge/New%20Relic-1CE783.svg?style=for-the-badge&logo=New-Relic&logoColor=white">
   </a>
 
-  <a href="https://www.ibm.com/topics/core-banking" target="_blank">
-    <br> <br> <br> What is Core Banking? <br>
-  </a>
 </p>
