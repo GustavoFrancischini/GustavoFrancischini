@@ -1,6 +1,4 @@
-<h3 align="center">
-  Gustavo Francischini
-</h3>
+
 
 <p align="center">
       <a>
